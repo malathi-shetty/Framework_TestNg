@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.framework.testng.testCases.TC_007_softAssertionTest">
+      <class name="com.framework.testng.testCases.TC_008_parentChild">
         <methods>
-          <include name="softAssertionTest"/>
+          <include name="parentTest"/>
         </methods>
-      </class> <!-- com.framework.testng.testCases.TC_007_softAssertionTest -->
+      </class> <!-- com.framework.testng.testCases.TC_008_parentChild -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
