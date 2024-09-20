@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.framework.testng.testCases.TC_005_BookTicket">
+      <class name="com.framework.testng.testCases.TC_007_softAssertionTest">
         <methods>
-          <include name="bookTicket"/>
+          <include name="softAssertionTest"/>
         </methods>
-      </class> <!-- com.framework.testng.testCases.TC_005_BookTicket -->
+      </class> <!-- com.framework.testng.testCases.TC_007_softAssertionTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
